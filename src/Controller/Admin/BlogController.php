@@ -77,7 +77,7 @@ class BlogController extends AbstractController
         $post = new Post();
         $post->setAuthor($this->getUser());
 
-        // See https://symfony.com/doc/current/book/forms.html#submitting-forms-with-multiple-buttons
+        // See https://symfony.com/doc/current/form/multiple_buttons.html
         $form = $this->createForm(PostType::class, $post)
             ->add('saveAndCreateNew', SubmitType::class);
 
