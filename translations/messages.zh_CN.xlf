@@ -274,19 +274,19 @@
             </trans-unit>
             <trans-unit id="post.no_posts_found">
                 <source>post.no_posts_found</source>
-                <target>没有评论.</target>
+                <target>没有文章.</target>
             </trans-unit>
             <trans-unit id="post.created_successfully">
                 <source>post.created_successfully</source>
-                <target>评论发表成功!</target>
+                <target>文章发表成功!</target>
             </trans-unit>
             <trans-unit id="post.updated_successfully">
                 <source>post.updated_successfully</source>
-                <target>评论更新成功!</target>
+                <target>文章更新成功!</target>
             </trans-unit>
             <trans-unit id="post.deleted_successfully">
                 <source>post.deleted_successfully</source>
-                <target>评论删除成功!</target>
+                <target>文章删除成功!</target>
             </trans-unit>
 
             <trans-unit id="notification.comment_created">
